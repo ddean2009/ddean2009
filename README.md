@@ -9,4 +9,4 @@ ddean2009/ddean2009 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-[](https://github.com/ddean2009/github-readmd-stats)
+![](https://github.com/ddean2009/github-readmd-stats)
